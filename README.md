@@ -9,4 +9,4 @@
 
 # Preview
 
-![](https://raw.githubusercontent.com/RenatoLucasMota/PokeDex_MobX/master/Screenshot_1.png)
+![](https://raw.githubusercontent.com/RenatoLucasMota/ShoeStore/master/ezgif-3-765005ae61df.gif)
